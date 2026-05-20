@@ -10,7 +10,7 @@ It enables HR professionals and business managers to identify key attrition fact
 
 # 📸 Dashboard Preview
 
-![image alt](
+![image alt](https://github.com/Khanak-17/HR-Attrition-Analysis-Workforce-Retention-Dashboard/blob/15a848026fa3944508e99767a67caf0d5737a508/dashboard-preview.png)
 
 *Interactive Power BI dashboard showing employee attrition trends, workforce demographics, salary insights, department analysis, and employee retention metrics.*
 
@@ -243,9 +243,6 @@ HR-Attrition-Analysis-Workforce-Retention-Dashboard/
 ```
 
 ---
-# 📄 License
-
-This project is intended for educational, analytical, and portfolio purposes only.
 
 # 📄 License
 
